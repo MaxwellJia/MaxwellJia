@@ -45,6 +45,7 @@ Passionate about solving real-world problems with elegant and scalable tech solu
 -  Native Mandarin speaker | Fluent in English  
 -  Love playing basketball and exploring Canberra’s best restaurants
 
+---
 
 ### 🛠 Tech Stack
 
@@ -124,6 +125,8 @@ Passionate about solving real-world problems with elegant and scalable tech solu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
