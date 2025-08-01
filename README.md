@@ -49,9 +49,8 @@ Passionate about solving real-world problems with elegant and scalable tech solu
 ### 🛠 Tech Stack
 
 #### 🖥 Frontend
-<p align="left"> ...前端图标... </p>
-
-<p align="left">
+<div>
+  <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   </a>
@@ -70,10 +69,12 @@ Passionate about solving real-world problems with elegant and scalable tech solu
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-</p>
+</p> 
+</div>
+
 
 #### ⚙️ Backend
-
+<div>
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
@@ -94,6 +95,7 @@ Passionate about solving real-world problems with elegant and scalable tech solu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+</div>
 
 #### 🗄️ Databases
 
