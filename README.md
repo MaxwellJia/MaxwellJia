@@ -128,6 +128,5 @@ Passionate about solving real-world problems with elegant and scalable tech solu
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellJia&layout=compact&langs_count=8&theme=default)
-![Maxwell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaxwellJia&show_icons=true&theme=default)
 
 
