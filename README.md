@@ -49,7 +49,7 @@ Passionate about solving real-world problems with elegant and scalable tech solu
 ### 🛠 Tech Stack
 
 #### 🖥 Frontend
-<div>
+
   <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
@@ -70,11 +70,10 @@ Passionate about solving real-world problems with elegant and scalable tech solu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
 </p> 
-</div>
 
 
 #### ⚙️ Backend
-<div>
+
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
@@ -95,7 +94,7 @@ Passionate about solving real-world problems with elegant and scalable tech solu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
-</div>
+
 
 #### 🗄️ Databases
 
@@ -110,6 +109,7 @@ Passionate about solving real-world problems with elegant and scalable tech solu
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
 </p>
+
 
 #### ☁️ Cloud & DevOps
 
